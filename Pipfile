@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+graphene = "*"
+graphene-sqlalchemy = "*"
+psycopg2-binary = "*"
+sqlalchemy = "*"
+python-dotenv = "*"
+starlette = "*"
+graphql = "*"
+spacy = "*"
+pymupdf = "*"
+
+[dev-packages]
+pytest = "*"
+pytest-cov = "*"
+
+[requires]
+python_version = "3.10"

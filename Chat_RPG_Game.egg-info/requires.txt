@@ -1,0 +1,10 @@
+fastapi
+graphene
+graphene-sqlalchemy
+psycopg2-binary
+sqlalchemy
+python-dotenv
+
+[dev]
+pytest
+pytest-cov

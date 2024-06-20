@@ -1,0 +1,8 @@
+README.md
+setup.py
+Chat_RPG_Game.egg-info/PKG-INFO
+Chat_RPG_Game.egg-info/SOURCES.txt
+Chat_RPG_Game.egg-info/dependency_links.txt
+Chat_RPG_Game.egg-info/requires.txt
+Chat_RPG_Game.egg-info/top_level.txt
+tests/__init__.py
